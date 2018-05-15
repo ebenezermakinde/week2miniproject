@@ -1,0 +1,239 @@
+/*Font used for the all the text in the body*/
+    /*@font-face {
+	font-family: 'kalinga';
+	
+	src:url('fonts/kalinga/Kalinga.woff') format('woff'), 
+}*/
+
+body{
+    color: #F3F3F3;
+    font-size: 15px;
+
+}
+
+
+
+/*Header div attributes*/
+.header1div{
+	border:0px solid red;
+	width: 100%;
+	height:60px;
+	padding-top: 10px;
+	background-color: rgb(26,26,26);
+
+}
+ /*Menu listing*/
+ .topmenu{
+
+ 	padding-bottom: 20px;
+ 	border:0px solid white;
+ 	width: 50%;
+ 	height: 25px;
+ 	margin-left: 360px;
+ 	margin-top: 0px;	
+ }
+
+
+
+ /*unordered list attributes*/
+ li,a{
+ 	text-decoration: none;
+ 	list-style-type: none;
+ 	display: inline;
+ 	padding: 0px;
+ 	border: 1px solid rgb(158,158,158);
+ 	font-size: 20px;
+ 	color: #F3F3F3;
+ 	}
+
+ 
+  .logolist{
+     display: block;
+     list-style-type: 1;
+     width: 200px;
+     border:0px;
+     margin-left: 550px;
+     margin-top: 0px;
+
+
+  }	
+ 
+
+
+
+
+
+/*2nd Header div attributes*/
+.header2div{
+	border:0px solid green;
+	width: 98.61%;
+	height:500px;
+	background-color: rgb(31,43,37);
+	/*padding-top: 5px;*/
+	padding-left: 10px;
+	position: absolute;
+	z-index: 4;
+
+
+
+}
+
+/*The main body div attributes*/
+.bodydiv{
+
+	border:1px dashed tomato;
+	width: 100%;
+	height:100%;
+	position: static;
+}
+
+/*3rd div attributes*/
+.div3{
+	border:0px solid black;
+	width: 50%;
+	height:850px;
+	margin-right: 20px;
+	margin-top: 0px;
+	position: relative;
+	bottom: 80px;
+	padding-left: 100px;
+}
+
+.div3images{
+
+	width: 350px;
+	height: 250px;
+
+
+}
+
+
+/*div3a div attributes*/
+.div3a{
+   border:0px solid black;
+   width: 29%;
+   height: 870px;
+   margin: 2px;
+   position: absolute;
+   top: 584px;
+   left: 1161px;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size: 20px;
+   background-color: #F3F3F3;
+   color: #000000;
+
+   
+
+   
+
+}
+
+/*1st footer div attributes*/
+.footer1div{
+	border:1px solid black;
+	width: 100%;
+	height:250px;
+	background-color: rgb(31,43,37);
+	
+
+
+	
+
+
+}
+
+/*2nd footer div attributes*/
+.footer2div{
+	border:1px solid black;
+	width: 100%;
+	height:250px;
+	background-color: rgb(26,26,26);
+     
+
+}
+
+.classfloatlt{
+
+	float: left;
+}
+
+.classfloatrt{
+
+	float: right;
+}
+
+.classclear{
+	clear: both;
+}
+
+#imgdiv2{
+      margin-left: 540px;
+      z-index: 5;
+      position: relative;
+
+      padding-top: 110px;
+      margin-bottom: -15px;
+}
+
+
+#namediv{
+	padding-top: 5px;
+	font-size: 65px;
+	font-weight:bold;
+
+}
+
+#imgdiv2text{
+    width:39.7%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.85);
+    position:relative;
+    margin-left: 540px;
+    font-size: 18px;
+    text-align: center;
+    bottom: 15px;
+    z-index: 6;
+
+   
+
+}
+
+.latenews{
+	/*color: #312A32;*/
+	color: #CB053E;
+	font-weight: bolder;
+	border:none;
+}
+
+#view{
+	margin-left: 400px;
+      
+      
+}
+h3{
+	color: #000000;
+}
+
+.social{
+	display: inline;
+	border:none;
+	font-size: 15px;
+	text-decoration: none;
+	border: 0px solid rgb(158,158,158);
+	line-height: 40px;
+	padding-left: 150px;
+	color: #ffffff;
+	font-weight: bold;
+	
+     
+}
+
+.snetwork{
+
+	border:none;
+}
+
+.mainmenu:hover{
+   font-weight: bolder;
+}

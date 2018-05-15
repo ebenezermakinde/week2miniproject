@@ -1,0 +1,133 @@
+/*Header div attributes*/
+.header1div{
+	border:0px solid red;
+	width: 100%;
+	height:60px;
+	padding-top: 10px;
+	background-color: rgb(26,26,26);
+
+}
+ /*Menu listing*/
+ .topmenu{
+
+ 	padding-bottom: 20px;
+ 	border:0px solid white;
+ 	width: 50%;
+ 	height: 25px;
+ 	margin-left: 350px;
+ 	margin-top: 0px;	
+ }
+
+
+
+ /*unordered list attributes*/
+ li,a{
+ 	text-decoration: none;
+ 	list-style-type: none;
+ 	display: inline;
+ 	padding: 0px;
+ 	border: 1px solid rgb(158,158,158);
+ 	font-size: 20px;
+ 	color: #F3F3F3;
+ 	}
+
+ 
+  .logolist{
+     display: block;
+     list-style-type: 1;
+     width: 200px;
+     border:0px;
+     margin-left: 500px;
+     margin-top: 5px;
+
+
+  }	
+ 
+
+
+
+
+
+/*2nd Header div attributes*/
+.header2div{
+	border:1px solid green;
+	height:500px;
+	background-color: rgb(31,43,37);
+	/*padding-top: 5px;*/
+	padding-left: 350px;
+
+
+}
+
+/*The main body div attributes*/
+.bodydiv{
+
+	border:1px dashed tomato;
+	width: 100%;
+	height:100%;
+	position: static;
+}
+
+/*3rd div attributes*/
+.div3{
+	border:1px solid black;
+	width: 59%;
+	height:990px;
+	margin: 5px;
+	
+
+
+}
+
+/*div3a div attributes*/
+.div3a{
+   border:1px solid black;
+   width: 38%;
+   height: 990px;
+   margin: 2px;
+   position: absolute;
+   top: 584px;
+   left: 1161px;
+   background-color: #F3F3F3;
+   
+
+   
+
+}
+
+/*1st footer div attributes*/
+.footer1div{
+	border:1px solid black;
+	width: 100%;
+	height:250px;
+	background-color: rgb(31,43,37);
+
+	
+
+
+}
+
+/*2nd footer div attributes*/
+.footer2div{
+	border:1px solid black;
+	width: 100%;
+	height:250px;
+	background-color: rgb(26,26,26);
+     
+
+}
+
+.classfloatlt{
+
+	float: left;
+}
+
+.classfloatrt{
+
+	float: right;
+}
+
+.classclear{
+	clear: both;
+}
+
